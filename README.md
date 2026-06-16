@@ -42,15 +42,15 @@ https://syljohn23.github.io/portfolio/
 
 ## 📁 Folder Structure
 
-portfolio/
-│
+```
 ├── assets/
-│ ├── img/
-│ └── docs/
+│   ├── img/
+│   └── docs/
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
+```
 
 
 ---
