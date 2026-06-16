@@ -87,6 +87,11 @@ li a:hover::before {
     background: linear-gradient(to right, #0052D4,#65C7F7, #51c7db);
 }
 
+.visit-btn a {
+    text-decoration: none;
+    color: #fff;
+}
+
 #menu-icon {
     display: none;
     font-size: 2rem;
